@@ -949,11 +949,12 @@ screen and (max-width: 500px) {
     }
 
     .hero-container--base-information--text {
-        width: 315px;
+        width: 320px;
+	height: 78px;
         font-size: 22px;
         margin-left: auto;
         margin-right: auto;
-				text-align: center;
+	text-align: center;
     }
 
     .hero-container--description {
